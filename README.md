@@ -6,7 +6,7 @@ This project presents a global startup funding analysis dashboard built using Po
 
 The dataset used in this project is a **sample/generated dataset (1000 rows)** created for learning and visualization purposes.
 
---
+---
 
 ## 🚀 Features
 
