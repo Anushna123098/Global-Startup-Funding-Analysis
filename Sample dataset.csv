@@ -1,0 +1,1001 @@
+Date,Startup_Name,Country,Industry,Funding_Amount,Funding_Stage,Investor_Name
+19-03-2020,Startup_1,India,HealthTech,38950516,Series A,Andreessen Horowitz
+08-01-2020,Startup_2,India,AI,10485084,Private Equity,Sequoia
+13-02-2021,Startup_3,USA,E-Commerce,67342967,Private Equity,Lightspeed
+06-03-2023,Startup_4,Germany,EdTech,91106901,Series B,Accel
+16-10-2018,Startup_5,Canada,EdTech,87473883,Series B,Y Combinator
+28-11-2021,Startup_6,USA,Cybersecurity,96694064,Private Equity,Lightspeed
+22-03-2020,Startup_7,Australia,EdTech,23837027,Series B,Kleiner Perkins
+09-12-2020,Startup_8,Canada,SaaS,52503816,Seed,Sequoia
+13-01-2019,Startup_9,India,EdTech,99889538,Series A,Kleiner Perkins
+21-07-2018,Startup_10,Canada,HealthTech,64202139,Private Equity,Tiger Global
+07-07-2019,Startup_11,Singapore,Logistics,62927156,Seed,SoftBank
+12-12-2017,Startup_12,Canada,AI,7990587,Series B,Tiger Global
+30-08-2022,Startup_13,Canada,E-Commerce,31686040,IPO,Andreessen Horowitz
+29-10-2020,Startup_14,Singapore,AI,41409548,Series C,Andreessen Horowitz
+07-04-2023,Startup_15,USA,HealthTech,39197999,Series A,Y Combinator
+12-04-2018,Startup_16,UAE,E-Commerce,15799133,Seed,Y Combinator
+21-04-2018,Startup_17,Germany,E-Commerce,34414024,IPO,Tiger Global
+12-04-2022,Startup_18,Singapore,Logistics,77982999,Series B,Kleiner Perkins
+01-05-2017,Startup_19,UK,AI,58016720,Series A,Accel
+26-06-2020,Startup_20,UAE,HealthTech,66453725,Series C,Sequoia
+24-10-2019,Startup_21,Germany,EdTech,37832372,Series B,Y Combinator
+10-07-2018,Startup_22,India,Cybersecurity,44238610,Series B,Tiger Global
+31-05-2021,Startup_23,Canada,AI,45609679,Seed,SoftBank
+29-08-2017,Startup_24,UAE,AI,33455816,Seed,Lightspeed
+14-09-2018,Startup_25,UAE,HealthTech,38732576,Series C,SoftBank
+10-07-2019,Startup_26,Singapore,AI,75774339,IPO,Andreessen Horowitz
+18-03-2019,Startup_27,Canada,E-Commerce,27720342,Seed,Lightspeed
+12-11-2018,Startup_28,India,Logistics,75551246,Series B,Accel
+04-11-2018,Startup_29,UAE,E-Commerce,51649551,Series A,Andreessen Horowitz
+11-02-2017,Startup_30,Australia,EdTech,28051585,Private Equity,Kleiner Perkins
+06-02-2021,Startup_31,Australia,Logistics,415757,IPO,Lightspeed
+07-05-2023,Startup_32,UK,EdTech,74632830,Series C,Kleiner Perkins
+02-06-2022,Startup_33,Singapore,SaaS,58358361,Private Equity,Accel
+04-10-2018,Startup_34,UAE,Cybersecurity,11535436,Private Equity,Kleiner Perkins
+18-01-2023,Startup_35,Singapore,FinTech,8707198,Seed,Accel
+17-01-2018,Startup_36,USA,HealthTech,59681681,Private Equity,Tiger Global
+24-03-2023,Startup_37,Singapore,Logistics,43720706,Series A,Lightspeed
+14-01-2021,Startup_38,Germany,AI,16948257,Private Equity,Tiger Global
+12-09-2023,Startup_39,UAE,E-Commerce,24612969,Private Equity,Sequoia
+16-08-2018,Startup_40,Australia,FinTech,14081280,IPO,Andreessen Horowitz
+03-02-2018,Startup_41,USA,Cybersecurity,99565818,Series B,Y Combinator
+16-11-2022,Startup_42,Australia,AI,28819876,IPO,Andreessen Horowitz
+27-02-2019,Startup_43,Germany,E-Commerce,52392765,Series C,Y Combinator
+05-05-2021,Startup_44,Singapore,Logistics,41531027,Seed,Y Combinator
+28-05-2020,Startup_45,Germany,HealthTech,29646633,Series B,Accel
+09-02-2017,Startup_46,Germany,FinTech,81310242,Series C,Andreessen Horowitz
+24-02-2019,Startup_47,Australia,EdTech,71861365,Series C,Tiger Global
+22-10-2023,Startup_48,UK,AI,21574188,Seed,Andreessen Horowitz
+07-10-2021,Startup_49,Singapore,Logistics,64109484,Series A,Sequoia
+26-03-2017,Startup_50,Canada,EdTech,2931552,Series A,Tiger Global
+10-02-2021,Startup_51,UK,Cybersecurity,97464120,Private Equity,Lightspeed
+28-05-2022,Startup_52,India,SaaS,61699632,Seed,Tiger Global
+04-03-2018,Startup_53,India,Cybersecurity,14561816,Series C,Tiger Global
+01-10-2022,Startup_54,Australia,EdTech,53003326,Seed,Andreessen Horowitz
+24-12-2020,Startup_55,Australia,Logistics,94376314,IPO,Accel
+17-09-2019,Startup_56,Australia,AI,15842255,Series C,Sequoia
+18-02-2021,Startup_57,Singapore,FinTech,14016655,Series B,Lightspeed
+25-02-2019,Startup_58,UAE,SaaS,56595726,Seed,Lightspeed
+19-04-2022,Startup_59,UAE,HealthTech,30792298,Series B,SoftBank
+21-11-2018,Startup_60,USA,AI,17793051,Series C,Kleiner Perkins
+25-05-2018,Startup_61,Australia,HealthTech,11343581,IPO,Lightspeed
+14-01-2019,Startup_62,USA,Logistics,79215410,IPO,Andreessen Horowitz
+27-08-2022,Startup_63,USA,FinTech,42261653,Series A,Lightspeed
+26-10-2019,Startup_64,India,EdTech,95425806,Private Equity,Accel
+11-08-2022,Startup_65,UAE,EdTech,24830068,Series A,Kleiner Perkins
+15-10-2021,Startup_66,USA,HealthTech,58094617,Private Equity,Y Combinator
+17-08-2022,Startup_67,UAE,SaaS,14550921,IPO,Sequoia
+29-01-2018,Startup_68,UK,FinTech,90164163,Series B,Sequoia
+04-11-2019,Startup_69,Australia,SaaS,27349808,Seed,Accel
+02-11-2021,Startup_70,UK,Logistics,91129497,Series B,Sequoia
+04-02-2021,Startup_71,UAE,SaaS,50214914,Private Equity,Accel
+24-02-2018,Startup_72,UAE,EdTech,65538679,IPO,Accel
+31-07-2022,Startup_73,Australia,AI,3733629,Series A,Lightspeed
+05-10-2022,Startup_74,India,SaaS,37129423,IPO,Sequoia
+04-07-2018,Startup_75,India,HealthTech,54141324,Series A,Andreessen Horowitz
+31-01-2019,Startup_76,Singapore,Cybersecurity,16223259,Series C,Tiger Global
+16-12-2021,Startup_77,India,Logistics,21829573,Series B,Andreessen Horowitz
+14-01-2022,Startup_78,UK,FinTech,39344921,Series C,Andreessen Horowitz
+03-05-2017,Startup_79,UAE,Cybersecurity,53287975,Series A,SoftBank
+24-02-2018,Startup_80,India,Cybersecurity,46364057,Seed,Accel
+04-04-2022,Startup_81,Singapore,SaaS,19346739,Series B,Y Combinator
+01-12-2020,Startup_82,India,HealthTech,34562543,Series A,SoftBank
+18-10-2017,Startup_83,UK,Logistics,49404027,Series B,Tiger Global
+07-11-2021,Startup_84,Australia,EdTech,33480747,Seed,Lightspeed
+10-01-2021,Startup_85,Canada,Logistics,6168820,Seed,SoftBank
+23-01-2021,Startup_86,UK,SaaS,93326604,Series B,Lightspeed
+30-03-2020,Startup_87,USA,EdTech,36996788,IPO,Accel
+05-06-2022,Startup_88,UK,E-Commerce,34451838,Series C,Lightspeed
+19-09-2022,Startup_89,Australia,E-Commerce,97044340,Series B,Accel
+03-07-2019,Startup_90,UAE,SaaS,41431737,IPO,Sequoia
+22-02-2018,Startup_91,USA,SaaS,67818034,Seed,Accel
+22-03-2020,Startup_92,Singapore,FinTech,57557702,Seed,Y Combinator
+16-01-2021,Startup_93,India,E-Commerce,37461436,Private Equity,Kleiner Perkins
+01-11-2019,Startup_94,UK,Logistics,60644877,Series C,Tiger Global
+01-09-2017,Startup_95,UAE,EdTech,40770141,Series A,Lightspeed
+26-11-2020,Startup_96,Australia,SaaS,20101053,Private Equity,Accel
+22-07-2023,Startup_97,UK,E-Commerce,32656217,Series A,SoftBank
+29-09-2019,Startup_98,Canada,Cybersecurity,1035207,Series C,Tiger Global
+06-03-2018,Startup_99,Canada,EdTech,50484953,Private Equity,Tiger Global
+29-06-2022,Startup_100,Australia,Logistics,84307373,Private Equity,Andreessen Horowitz
+14-08-2020,Startup_101,Germany,SaaS,56227110,Private Equity,Accel
+21-11-2019,Startup_102,USA,Logistics,96634848,IPO,Sequoia
+28-12-2021,Startup_103,Canada,Logistics,51216183,Series B,Lightspeed
+15-01-2021,Startup_104,Singapore,HealthTech,9827964,Seed,Y Combinator
+20-02-2020,Startup_105,UK,Cybersecurity,78112200,IPO,Tiger Global
+26-05-2017,Startup_106,Germany,FinTech,77659920,Seed,Lightspeed
+24-03-2017,Startup_107,Singapore,Logistics,89015399,IPO,Sequoia
+20-06-2021,Startup_108,Canada,Logistics,52468597,IPO,Y Combinator
+03-04-2023,Startup_109,UAE,Cybersecurity,44535603,IPO,Y Combinator
+19-10-2018,Startup_110,Singapore,AI,75413586,Series B,Sequoia
+23-03-2019,Startup_111,India,Logistics,96566262,Series B,Andreessen Horowitz
+25-01-2023,Startup_112,Australia,E-Commerce,52063686,Series B,Andreessen Horowitz
+16-08-2019,Startup_113,Germany,FinTech,60687336,Private Equity,Y Combinator
+30-06-2019,Startup_114,USA,FinTech,37079512,Seed,Andreessen Horowitz
+29-03-2021,Startup_115,Canada,E-Commerce,95486268,IPO,SoftBank
+22-11-2018,Startup_116,UK,FinTech,87632024,Seed,Lightspeed
+16-08-2021,Startup_117,Singapore,Logistics,10717736,Series A,Accel
+11-07-2018,Startup_118,Germany,FinTech,32310529,Seed,Tiger Global
+14-07-2018,Startup_119,Germany,FinTech,74047648,Private Equity,Kleiner Perkins
+03-06-2017,Startup_120,Australia,FinTech,62680158,IPO,Kleiner Perkins
+23-06-2021,Startup_121,India,E-Commerce,9512906,Seed,Accel
+20-10-2019,Startup_122,India,HealthTech,10321365,Private Equity,SoftBank
+26-09-2018,Startup_123,Singapore,AI,50783522,Series A,Sequoia
+01-06-2020,Startup_124,UAE,HealthTech,54467764,Series B,Kleiner Perkins
+21-03-2021,Startup_125,Singapore,E-Commerce,42556737,Series C,Kleiner Perkins
+22-12-2020,Startup_126,UAE,AI,43714966,Series C,Andreessen Horowitz
+19-08-2018,Startup_127,USA,AI,32628561,Series C,Lightspeed
+13-10-2021,Startup_128,UAE,E-Commerce,74327401,Series C,Andreessen Horowitz
+06-03-2020,Startup_129,UAE,SaaS,566763,IPO,Accel
+23-01-2018,Startup_130,Singapore,HealthTech,7500080,Series C,Tiger Global
+30-04-2023,Startup_131,India,E-Commerce,28350520,Series A,Accel
+05-09-2021,Startup_132,Germany,SaaS,19198588,Private Equity,Accel
+21-03-2018,Startup_133,Canada,Cybersecurity,59374738,Seed,Andreessen Horowitz
+14-02-2018,Startup_134,Germany,FinTech,79665035,Seed,SoftBank
+23-02-2022,Startup_135,Canada,FinTech,21610419,Series A,Y Combinator
+09-04-2023,Startup_136,Australia,E-Commerce,45778125,Series B,Tiger Global
+29-10-2020,Startup_137,Germany,E-Commerce,28366204,Series C,SoftBank
+04-11-2019,Startup_138,Germany,AI,20166411,IPO,Accel
+23-12-2019,Startup_139,India,SaaS,21572273,Series C,Sequoia
+23-02-2018,Startup_140,India,Logistics,78363104,Series B,Accel
+15-08-2019,Startup_141,Canada,Cybersecurity,50458632,IPO,Kleiner Perkins
+28-11-2020,Startup_142,Germany,SaaS,70380723,Series B,SoftBank
+02-11-2018,Startup_143,UK,FinTech,71046659,Seed,Accel
+19-04-2018,Startup_144,Australia,FinTech,96392683,Series C,Tiger Global
+21-10-2021,Startup_145,India,SaaS,80196767,IPO,Sequoia
+21-08-2022,Startup_146,Australia,EdTech,12330498,Seed,Tiger Global
+24-06-2018,Startup_147,UK,E-Commerce,49771781,Series C,Kleiner Perkins
+13-11-2019,Startup_148,Canada,EdTech,38629689,Series B,Kleiner Perkins
+23-01-2017,Startup_149,Canada,Cybersecurity,6345860,Series A,Tiger Global
+25-12-2021,Startup_150,USA,EdTech,94392787,Seed,Tiger Global
+27-12-2019,Startup_151,UAE,E-Commerce,2477405,Private Equity,Sequoia
+18-01-2021,Startup_152,Singapore,E-Commerce,60548880,Series B,Sequoia
+18-06-2017,Startup_153,Germany,HealthTech,38279297,Series C,Andreessen Horowitz
+27-05-2017,Startup_154,Singapore,FinTech,33333226,IPO,Accel
+18-04-2023,Startup_155,Canada,Logistics,9679134,Seed,Kleiner Perkins
+14-11-2022,Startup_156,Canada,EdTech,89320017,Seed,Lightspeed
+28-10-2018,Startup_157,UK,Logistics,92404048,Private Equity,Kleiner Perkins
+27-05-2023,Startup_158,Canada,AI,78966093,Seed,Kleiner Perkins
+01-09-2023,Startup_159,India,E-Commerce,64867589,Private Equity,Lightspeed
+15-12-2018,Startup_160,USA,EdTech,7664289,Series C,Y Combinator
+24-09-2023,Startup_161,UAE,E-Commerce,96157623,Series C,Kleiner Perkins
+05-12-2018,Startup_162,UK,AI,96727023,IPO,Lightspeed
+31-05-2017,Startup_163,UK,EdTech,85188080,Private Equity,Tiger Global
+27-10-2017,Startup_164,UK,Logistics,4577091,Private Equity,Tiger Global
+15-07-2017,Startup_165,Canada,E-Commerce,87329640,Series C,Andreessen Horowitz
+10-08-2023,Startup_166,UAE,Logistics,67046211,Private Equity,SoftBank
+19-10-2017,Startup_167,USA,Cybersecurity,33912566,Series B,SoftBank
+30-09-2023,Startup_168,UK,Logistics,93941940,Seed,Lightspeed
+13-05-2020,Startup_169,Canada,E-Commerce,10254965,Series C,Tiger Global
+22-07-2021,Startup_170,India,Cybersecurity,29500222,Seed,Tiger Global
+17-08-2017,Startup_171,UAE,Cybersecurity,21012242,Seed,Kleiner Perkins
+20-04-2022,Startup_172,UK,HealthTech,19803389,Private Equity,Andreessen Horowitz
+15-04-2017,Startup_173,India,SaaS,96300949,Series C,Kleiner Perkins
+29-03-2018,Startup_174,Germany,Cybersecurity,50542426,Private Equity,Accel
+02-05-2022,Startup_175,Canada,Logistics,6068775,Seed,Accel
+09-10-2022,Startup_176,Germany,SaaS,45873002,IPO,Y Combinator
+07-09-2018,Startup_177,Germany,E-Commerce,3231025,Series C,Y Combinator
+01-08-2021,Startup_178,Germany,Cybersecurity,4399151,Private Equity,Kleiner Perkins
+30-01-2023,Startup_179,USA,EdTech,67613052,Series B,Accel
+23-04-2021,Startup_180,Australia,AI,80827014,IPO,SoftBank
+02-10-2022,Startup_181,Canada,HealthTech,24881106,Series A,Sequoia
+18-01-2017,Startup_182,Germany,E-Commerce,65411273,Series B,Lightspeed
+06-05-2020,Startup_183,Singapore,FinTech,64812674,Series B,Accel
+13-11-2017,Startup_184,India,AI,78013913,Seed,Y Combinator
+15-05-2023,Startup_185,UAE,E-Commerce,90951215,Seed,Sequoia
+04-08-2019,Startup_186,Canada,EdTech,85512390,Private Equity,Sequoia
+11-11-2020,Startup_187,USA,Logistics,18640016,Series A,Sequoia
+01-12-2021,Startup_188,Australia,SaaS,14233787,Series C,Sequoia
+26-04-2023,Startup_189,Germany,Logistics,96707159,Series C,Y Combinator
+05-11-2023,Startup_190,India,AI,44258915,Series A,Y Combinator
+14-04-2018,Startup_191,Germany,Logistics,98004728,Series A,SoftBank
+01-04-2017,Startup_192,UAE,HealthTech,4430041,IPO,Y Combinator
+09-04-2021,Startup_193,USA,SaaS,18543664,Series A,Andreessen Horowitz
+11-09-2021,Startup_194,UAE,EdTech,6667590,Seed,Tiger Global
+26-01-2017,Startup_195,UK,Logistics,37000431,Private Equity,Kleiner Perkins
+28-04-2022,Startup_196,UAE,SaaS,73005344,Seed,Accel
+19-05-2021,Startup_197,India,FinTech,99894966,IPO,Sequoia
+05-03-2020,Startup_198,Canada,HealthTech,18350416,Seed,Y Combinator
+05-02-2020,Startup_199,Canada,EdTech,43282821,Private Equity,Andreessen Horowitz
+30-07-2021,Startup_200,Singapore,AI,69486873,Series B,Lightspeed
+26-05-2023,Startup_201,India,FinTech,90285469,Private Equity,Accel
+12-11-2021,Startup_202,Germany,FinTech,25581626,Private Equity,Sequoia
+20-08-2023,Startup_203,Singapore,AI,95388041,Seed,Andreessen Horowitz
+02-09-2017,Startup_204,UAE,HealthTech,55856466,Private Equity,Andreessen Horowitz
+22-05-2017,Startup_205,USA,E-Commerce,32142200,Seed,SoftBank
+15-04-2017,Startup_206,Canada,EdTech,26151276,Seed,Sequoia
+30-06-2022,Startup_207,UK,Logistics,46261297,Private Equity,Lightspeed
+20-11-2020,Startup_208,USA,EdTech,98764892,Private Equity,SoftBank
+11-10-2018,Startup_209,UK,HealthTech,83631261,Series A,Y Combinator
+18-12-2019,Startup_210,India,Cybersecurity,79542751,Series C,Kleiner Perkins
+04-07-2020,Startup_211,Australia,E-Commerce,89767165,IPO,Andreessen Horowitz
+30-09-2023,Startup_212,Canada,EdTech,49274647,IPO,Sequoia
+07-11-2017,Startup_213,UK,SaaS,58664537,Series A,Tiger Global
+21-12-2019,Startup_214,UK,HealthTech,85242029,IPO,Accel
+01-03-2021,Startup_215,Singapore,E-Commerce,73449679,Series B,SoftBank
+20-01-2022,Startup_216,UK,AI,92215787,Series B,Andreessen Horowitz
+30-03-2020,Startup_217,Germany,E-Commerce,20002729,IPO,Y Combinator
+02-07-2017,Startup_218,Canada,E-Commerce,95574594,Series A,Andreessen Horowitz
+01-10-2022,Startup_219,Canada,FinTech,17555030,Seed,Tiger Global
+26-05-2019,Startup_220,USA,E-Commerce,67660562,Series C,Sequoia
+28-01-2017,Startup_221,UAE,AI,51384600,Private Equity,Andreessen Horowitz
+20-09-2019,Startup_222,Germany,HealthTech,23706774,Series A,Sequoia
+11-03-2021,Startup_223,UK,Logistics,81195451,IPO,SoftBank
+07-04-2017,Startup_224,Singapore,AI,28041940,Series B,Kleiner Perkins
+14-02-2020,Startup_225,Canada,EdTech,9116693,Series A,Tiger Global
+25-06-2020,Startup_226,Germany,EdTech,70482236,Series A,Y Combinator
+13-02-2020,Startup_227,Germany,Logistics,8764648,Series C,Sequoia
+18-06-2018,Startup_228,USA,Logistics,66741903,IPO,SoftBank
+30-03-2022,Startup_229,Canada,AI,14993279,IPO,Y Combinator
+04-09-2022,Startup_230,Canada,Logistics,22886446,Series A,SoftBank
+18-10-2018,Startup_231,UK,SaaS,77694079,Seed,Andreessen Horowitz
+13-04-2020,Startup_232,Germany,EdTech,55914509,Seed,Accel
+13-12-2022,Startup_233,USA,SaaS,35929031,IPO,SoftBank
+08-06-2019,Startup_234,India,Logistics,32801182,Series B,Y Combinator
+19-12-2019,Startup_235,UAE,AI,46271609,Series A,Y Combinator
+06-11-2021,Startup_236,Australia,E-Commerce,28734568,Series A,Accel
+29-07-2017,Startup_237,Germany,SaaS,24724556,Series B,SoftBank
+26-10-2017,Startup_238,Singapore,E-Commerce,15705519,Seed,Sequoia
+08-10-2017,Startup_239,UAE,FinTech,68285531,IPO,Andreessen Horowitz
+02-05-2018,Startup_240,India,SaaS,18750058,Private Equity,Y Combinator
+09-07-2019,Startup_241,India,Cybersecurity,32958653,Series C,Lightspeed
+29-01-2020,Startup_242,Germany,FinTech,53273242,Series A,Y Combinator
+04-10-2020,Startup_243,Australia,AI,4275108,Seed,Kleiner Perkins
+03-01-2020,Startup_244,India,Logistics,86841471,Series B,Kleiner Perkins
+09-11-2022,Startup_245,UAE,AI,36830960,Series A,Sequoia
+11-12-2020,Startup_246,Singapore,EdTech,20314156,Series A,Kleiner Perkins
+27-03-2020,Startup_247,Australia,FinTech,24157425,Series C,Y Combinator
+22-10-2023,Startup_248,Singapore,EdTech,62100453,Series A,SoftBank
+01-02-2019,Startup_249,Singapore,Cybersecurity,34092388,IPO,Lightspeed
+27-09-2017,Startup_250,Germany,HealthTech,23304609,Private Equity,Y Combinator
+19-06-2022,Startup_251,UK,FinTech,55621783,Private Equity,Kleiner Perkins
+08-12-2017,Startup_252,UAE,AI,86574907,IPO,Lightspeed
+03-07-2023,Startup_253,India,SaaS,55785980,Seed,Lightspeed
+22-11-2021,Startup_254,India,HealthTech,13833738,Series C,Lightspeed
+10-04-2020,Startup_255,Canada,HealthTech,8650986,Series A,Tiger Global
+10-09-2020,Startup_256,UK,SaaS,25372823,Seed,Lightspeed
+06-10-2021,Startup_257,Germany,EdTech,66863611,Series A,Y Combinator
+27-04-2017,Startup_258,India,EdTech,23505210,Series C,SoftBank
+27-04-2021,Startup_259,Canada,SaaS,89980393,Series A,Y Combinator
+06-12-2018,Startup_260,USA,HealthTech,4176043,Series B,Tiger Global
+20-11-2020,Startup_261,USA,FinTech,3004288,Series A,Y Combinator
+26-07-2018,Startup_262,UAE,EdTech,10251627,Series B,Kleiner Perkins
+16-01-2023,Startup_263,Canada,SaaS,68848316,Seed,SoftBank
+13-03-2017,Startup_264,Singapore,HealthTech,14329334,Private Equity,Accel
+06-11-2021,Startup_265,UAE,Logistics,53424586,Series B,Tiger Global
+19-10-2021,Startup_266,UAE,EdTech,30402243,Seed,Kleiner Perkins
+16-08-2021,Startup_267,Canada,Cybersecurity,44395062,IPO,Y Combinator
+24-12-2022,Startup_268,Australia,SaaS,7587701,Series A,Accel
+31-01-2022,Startup_269,India,SaaS,49537179,Series B,Accel
+07-09-2018,Startup_270,Australia,SaaS,31619558,Private Equity,Kleiner Perkins
+05-11-2020,Startup_271,UK,E-Commerce,12268797,Private Equity,Kleiner Perkins
+09-01-2023,Startup_272,Canada,HealthTech,57179484,Seed,Accel
+02-07-2019,Startup_273,Germany,Cybersecurity,980322,Private Equity,Accel
+30-03-2018,Startup_274,UAE,SaaS,93877434,Seed,Kleiner Perkins
+18-07-2018,Startup_275,Germany,SaaS,58012936,Series A,Lightspeed
+02-01-2022,Startup_276,UAE,EdTech,32774508,Series C,Accel
+25-05-2019,Startup_277,Singapore,E-Commerce,70501276,Seed,Accel
+20-05-2021,Startup_278,Singapore,Logistics,43485670,Series B,Andreessen Horowitz
+21-07-2020,Startup_279,UK,Logistics,70164363,IPO,Tiger Global
+07-09-2018,Startup_280,USA,AI,30050152,Private Equity,Kleiner Perkins
+28-06-2021,Startup_281,India,HealthTech,41301971,Series B,Tiger Global
+09-12-2022,Startup_282,USA,E-Commerce,56136212,Seed,Kleiner Perkins
+27-01-2018,Startup_283,UAE,FinTech,51683471,Series A,Kleiner Perkins
+26-01-2019,Startup_284,Canada,HealthTech,17674403,Seed,Tiger Global
+25-09-2022,Startup_285,India,Cybersecurity,90698237,Series C,Kleiner Perkins
+28-01-2022,Startup_286,Canada,EdTech,89106772,Series C,Andreessen Horowitz
+12-10-2020,Startup_287,Australia,AI,13446736,Seed,Accel
+17-04-2017,Startup_288,Germany,SaaS,76723733,Private Equity,Kleiner Perkins
+14-07-2020,Startup_289,India,HealthTech,20063086,Seed,Sequoia
+05-03-2017,Startup_290,UAE,Logistics,64541843,Series A,Lightspeed
+05-09-2018,Startup_291,Singapore,AI,1894964,Series A,SoftBank
+27-11-2018,Startup_292,Singapore,Cybersecurity,52690336,Series A,Accel
+05-07-2017,Startup_293,UAE,AI,72277765,Private Equity,Y Combinator
+20-05-2020,Startup_294,India,HealthTech,1709112,Series A,Tiger Global
+02-04-2017,Startup_295,Germany,HealthTech,80493355,IPO,SoftBank
+07-04-2023,Startup_296,UAE,HealthTech,12597117,Private Equity,Lightspeed
+01-07-2021,Startup_297,UAE,FinTech,92955423,IPO,Sequoia
+09-03-2023,Startup_298,Germany,E-Commerce,30316869,Seed,SoftBank
+04-11-2020,Startup_299,Singapore,E-Commerce,93423741,IPO,SoftBank
+12-12-2018,Startup_300,India,Logistics,79570046,Series B,Andreessen Horowitz
+13-06-2019,Startup_301,USA,AI,61145425,Series A,SoftBank
+08-09-2020,Startup_302,USA,FinTech,26556392,Series A,Kleiner Perkins
+10-03-2022,Startup_303,UAE,Logistics,10037336,Series B,Lightspeed
+03-09-2019,Startup_304,Singapore,FinTech,5506455,Seed,Andreessen Horowitz
+16-05-2022,Startup_305,USA,SaaS,51329957,Series C,Sequoia
+22-06-2019,Startup_306,Canada,Cybersecurity,71506476,Private Equity,Andreessen Horowitz
+08-10-2020,Startup_307,Canada,SaaS,22416483,Private Equity,Accel
+10-01-2021,Startup_308,Canada,SaaS,42859745,Series B,SoftBank
+28-11-2017,Startup_309,USA,EdTech,80146418,Series C,Tiger Global
+04-01-2017,Startup_310,Singapore,Logistics,60910613,Seed,Accel
+06-09-2017,Startup_311,India,EdTech,81171176,Series B,Kleiner Perkins
+04-05-2019,Startup_312,Canada,HealthTech,48644115,Seed,Sequoia
+06-12-2018,Startup_313,UK,Logistics,34178185,IPO,Y Combinator
+13-08-2022,Startup_314,India,Cybersecurity,35920085,Private Equity,SoftBank
+24-06-2020,Startup_315,UK,Logistics,42079704,Series A,Sequoia
+09-10-2020,Startup_316,Germany,E-Commerce,55963959,Series B,SoftBank
+01-02-2018,Startup_317,Singapore,E-Commerce,12623747,IPO,Sequoia
+30-01-2017,Startup_318,India,E-Commerce,1399955,Series B,Accel
+11-08-2018,Startup_319,Canada,HealthTech,21586750,Series C,Andreessen Horowitz
+15-06-2020,Startup_320,India,E-Commerce,57252416,Series B,Y Combinator
+01-05-2018,Startup_321,UK,FinTech,24486103,Series B,Sequoia
+17-04-2017,Startup_322,Australia,Logistics,65094539,Series A,Tiger Global
+15-10-2021,Startup_323,Canada,HealthTech,26679566,Series C,Sequoia
+04-08-2020,Startup_324,Germany,HealthTech,94081417,Private Equity,Y Combinator
+14-12-2018,Startup_325,India,E-Commerce,71534087,Series B,Kleiner Perkins
+08-10-2021,Startup_326,Singapore,Logistics,83640064,Series A,Y Combinator
+03-01-2019,Startup_327,UAE,Cybersecurity,44718240,Series A,Kleiner Perkins
+17-12-2017,Startup_328,Germany,Logistics,66340608,Private Equity,SoftBank
+27-04-2020,Startup_329,India,Logistics,30979575,Series A,Tiger Global
+07-09-2017,Startup_330,Canada,AI,82678479,Series B,Lightspeed
+18-10-2023,Startup_331,India,Logistics,78745384,Series A,Kleiner Perkins
+12-05-2021,Startup_332,UAE,E-Commerce,94255548,IPO,Y Combinator
+16-09-2020,Startup_333,UK,FinTech,66323006,Seed,Accel
+11-09-2020,Startup_334,UAE,Cybersecurity,65864866,IPO,Andreessen Horowitz
+28-06-2021,Startup_335,India,AI,44914723,Series B,Andreessen Horowitz
+17-04-2017,Startup_336,Australia,HealthTech,66298354,IPO,Accel
+01-07-2020,Startup_337,UK,HealthTech,5603842,Series A,Sequoia
+17-10-2023,Startup_338,Canada,SaaS,73770352,Series B,SoftBank
+01-01-2020,Startup_339,Singapore,EdTech,91897715,Series C,Tiger Global
+16-12-2018,Startup_340,USA,SaaS,18363634,Series B,Y Combinator
+07-05-2021,Startup_341,India,E-Commerce,38206684,IPO,Tiger Global
+11-12-2020,Startup_342,USA,FinTech,69903937,Series A,Andreessen Horowitz
+29-03-2018,Startup_343,Canada,FinTech,83051993,Series B,Andreessen Horowitz
+16-10-2022,Startup_344,UAE,HealthTech,48744673,Series C,Sequoia
+04-03-2021,Startup_345,UK,FinTech,15831838,Seed,Kleiner Perkins
+30-08-2023,Startup_346,UK,Cybersecurity,16730355,Series A,Tiger Global
+24-02-2017,Startup_347,Australia,E-Commerce,73126485,Series C,Sequoia
+16-02-2023,Startup_348,UAE,FinTech,33669032,Private Equity,Sequoia
+29-12-2022,Startup_349,UK,EdTech,93333734,Series C,Tiger Global
+27-04-2021,Startup_350,UAE,Cybersecurity,28182782,IPO,Andreessen Horowitz
+30-05-2021,Startup_351,Canada,EdTech,5386702,Series C,Sequoia
+28-09-2017,Startup_352,Canada,SaaS,74277457,Series B,SoftBank
+19-09-2019,Startup_353,Singapore,Cybersecurity,36466445,Private Equity,Lightspeed
+21-04-2017,Startup_354,Germany,Logistics,80867625,Seed,Y Combinator
+22-10-2020,Startup_355,UK,Logistics,66085052,Series A,Accel
+02-07-2017,Startup_356,Singapore,EdTech,60140813,Series A,Accel
+30-10-2020,Startup_357,UAE,Cybersecurity,6626144,Series C,Y Combinator
+12-01-2017,Startup_358,USA,Cybersecurity,70357552,Series A,SoftBank
+16-07-2023,Startup_359,Australia,Cybersecurity,48897820,Series C,Tiger Global
+01-06-2019,Startup_360,UAE,Logistics,99903187,Seed,Tiger Global
+03-10-2020,Startup_361,Australia,EdTech,11519255,Seed,Lightspeed
+18-03-2019,Startup_362,Canada,FinTech,47998555,IPO,Accel
+07-11-2021,Startup_363,Singapore,EdTech,51787940,Seed,SoftBank
+23-04-2023,Startup_364,UAE,Logistics,11798820,Series B,SoftBank
+19-02-2021,Startup_365,UAE,EdTech,67634504,Series B,Andreessen Horowitz
+29-08-2019,Startup_366,Germany,EdTech,68762864,Private Equity,SoftBank
+31-03-2018,Startup_367,USA,EdTech,56179721,IPO,Y Combinator
+24-11-2022,Startup_368,Germany,HealthTech,56489971,Series B,Andreessen Horowitz
+22-08-2022,Startup_369,India,Cybersecurity,93242172,Seed,Tiger Global
+22-05-2021,Startup_370,UK,AI,97351293,Series A,SoftBank
+07-05-2020,Startup_371,Canada,HealthTech,24828759,Seed,SoftBank
+25-04-2022,Startup_372,USA,EdTech,52001172,Seed,Kleiner Perkins
+30-07-2018,Startup_373,India,HealthTech,45141563,Seed,Sequoia
+23-08-2021,Startup_374,USA,E-Commerce,67869135,Seed,Andreessen Horowitz
+15-04-2019,Startup_375,India,SaaS,99134458,Seed,Andreessen Horowitz
+01-11-2018,Startup_376,Singapore,Cybersecurity,11947969,Seed,Accel
+18-10-2022,Startup_377,Germany,SaaS,89458807,Series A,Andreessen Horowitz
+22-03-2023,Startup_378,Canada,FinTech,12763641,Series B,Lightspeed
+06-04-2019,Startup_379,Australia,Cybersecurity,60908114,IPO,Accel
+01-12-2019,Startup_380,India,EdTech,13509115,Series B,Andreessen Horowitz
+10-04-2020,Startup_381,UK,HealthTech,71049616,Series B,Sequoia
+12-08-2017,Startup_382,Australia,HealthTech,61132252,Series C,SoftBank
+15-06-2019,Startup_383,Singapore,EdTech,21075441,Series C,Lightspeed
+28-08-2018,Startup_384,UAE,EdTech,5884161,Private Equity,Y Combinator
+22-05-2019,Startup_385,UK,HealthTech,52505073,Private Equity,Lightspeed
+04-04-2020,Startup_386,USA,SaaS,50286791,Private Equity,Andreessen Horowitz
+19-10-2018,Startup_387,Canada,AI,51094215,IPO,Sequoia
+17-07-2019,Startup_388,Germany,AI,77470719,Series C,Sequoia
+24-05-2019,Startup_389,India,FinTech,14555127,Private Equity,Lightspeed
+01-06-2018,Startup_390,UK,HealthTech,33656463,IPO,Sequoia
+01-08-2018,Startup_391,Singapore,EdTech,85918481,Series C,Kleiner Perkins
+07-03-2018,Startup_392,Canada,HealthTech,91331614,Series A,Accel
+15-05-2019,Startup_393,Singapore,E-Commerce,83067133,Seed,Accel
+07-12-2018,Startup_394,Australia,HealthTech,6945358,Series A,Lightspeed
+12-09-2021,Startup_395,Canada,Logistics,17469451,IPO,Sequoia
+07-03-2020,Startup_396,Australia,AI,11918983,Series A,Y Combinator
+15-04-2020,Startup_397,Germany,HealthTech,81935498,Series C,Y Combinator
+08-03-2017,Startup_398,India,FinTech,30868946,Seed,Accel
+17-07-2018,Startup_399,Canada,EdTech,88588713,Series C,Kleiner Perkins
+10-02-2018,Startup_400,USA,HealthTech,25090239,Private Equity,Lightspeed
+27-10-2020,Startup_401,UK,AI,93375772,Series B,Lightspeed
+17-06-2018,Startup_402,Australia,HealthTech,54325415,Series B,Tiger Global
+29-01-2021,Startup_403,India,HealthTech,22029533,Series C,SoftBank
+21-08-2017,Startup_404,USA,EdTech,97383138,Private Equity,Lightspeed
+26-05-2023,Startup_405,Singapore,E-Commerce,19376768,IPO,Kleiner Perkins
+16-01-2018,Startup_406,UK,E-Commerce,32903116,Series B,SoftBank
+25-05-2022,Startup_407,Singapore,AI,99988394,Series B,Y Combinator
+22-08-2021,Startup_408,USA,E-Commerce,63502757,Seed,Andreessen Horowitz
+05-03-2018,Startup_409,UK,AI,63255137,Seed,Accel
+07-02-2022,Startup_410,UK,FinTech,14065647,Seed,Sequoia
+25-09-2019,Startup_411,Germany,SaaS,13625801,Series B,Y Combinator
+23-08-2020,Startup_412,UK,HealthTech,95451477,Series B,Kleiner Perkins
+30-11-2020,Startup_413,UK,SaaS,9978371,Private Equity,Accel
+19-03-2020,Startup_414,Canada,Cybersecurity,28243497,Private Equity,Tiger Global
+10-10-2021,Startup_415,UK,E-Commerce,48918672,Seed,Sequoia
+14-01-2018,Startup_416,UAE,Logistics,86580693,Seed,Andreessen Horowitz
+26-03-2020,Startup_417,USA,Logistics,67333978,Series B,Kleiner Perkins
+23-12-2017,Startup_418,UK,SaaS,74119474,Seed,Tiger Global
+01-12-2020,Startup_419,UAE,SaaS,40342218,Series C,SoftBank
+09-06-2020,Startup_420,Germany,FinTech,69181005,Series A,Accel
+29-11-2019,Startup_421,Singapore,EdTech,53847601,Series B,Andreessen Horowitz
+06-01-2017,Startup_422,Canada,E-Commerce,96445889,Series B,Sequoia
+01-01-2019,Startup_423,Singapore,FinTech,50634735,IPO,Y Combinator
+21-06-2020,Startup_424,Germany,Logistics,31845055,IPO,Accel
+20-07-2018,Startup_425,Singapore,SaaS,28026719,Private Equity,Accel
+06-10-2023,Startup_426,USA,EdTech,82951728,Seed,Andreessen Horowitz
+30-12-2021,Startup_427,Australia,E-Commerce,71351877,IPO,Y Combinator
+18-08-2021,Startup_428,UAE,SaaS,96695980,Private Equity,Sequoia
+04-11-2021,Startup_429,UAE,E-Commerce,20793431,Series A,Lightspeed
+02-12-2019,Startup_430,Singapore,SaaS,59246910,Series A,Accel
+12-01-2020,Startup_431,UAE,AI,7265485,IPO,Lightspeed
+18-06-2023,Startup_432,UK,E-Commerce,89846295,Private Equity,Kleiner Perkins
+30-07-2018,Startup_433,Singapore,Logistics,6212934,Private Equity,Kleiner Perkins
+05-07-2017,Startup_434,USA,E-Commerce,61722522,Private Equity,Accel
+02-01-2022,Startup_435,Australia,E-Commerce,61350043,Series A,Y Combinator
+01-01-2018,Startup_436,Singapore,HealthTech,30641545,IPO,Sequoia
+10-06-2020,Startup_437,Germany,SaaS,60432458,Seed,Andreessen Horowitz
+10-11-2018,Startup_438,UK,Cybersecurity,22560298,Series B,Kleiner Perkins
+09-03-2019,Startup_439,Australia,FinTech,1229961,Series B,Accel
+28-01-2017,Startup_440,Canada,SaaS,63639496,Private Equity,Tiger Global
+09-12-2021,Startup_441,Germany,SaaS,98638148,Series C,Kleiner Perkins
+26-10-2020,Startup_442,Germany,Logistics,41962499,Seed,Lightspeed
+22-12-2018,Startup_443,Singapore,EdTech,44554422,Series A,Kleiner Perkins
+19-01-2021,Startup_444,Australia,Logistics,94588281,Series A,Kleiner Perkins
+10-06-2017,Startup_445,USA,AI,3863611,Series B,Tiger Global
+18-01-2021,Startup_446,UAE,EdTech,11672129,Series A,Lightspeed
+06-01-2022,Startup_447,Australia,EdTech,18445191,Seed,Andreessen Horowitz
+31-01-2021,Startup_448,USA,E-Commerce,94904741,IPO,Y Combinator
+15-03-2022,Startup_449,Singapore,Logistics,26336096,Series C,SoftBank
+12-10-2017,Startup_450,Germany,Cybersecurity,31916891,Seed,SoftBank
+28-06-2021,Startup_451,UK,SaaS,50318765,IPO,Y Combinator
+10-06-2022,Startup_452,Australia,AI,64914830,Series B,Andreessen Horowitz
+13-05-2018,Startup_453,Canada,Logistics,97664854,Series A,Tiger Global
+19-08-2018,Startup_454,UAE,FinTech,84298399,Series A,SoftBank
+09-06-2019,Startup_455,USA,AI,10227620,Seed,Tiger Global
+21-04-2023,Startup_456,Singapore,EdTech,24004652,Private Equity,Accel
+08-08-2022,Startup_457,Australia,FinTech,73007282,Series A,Kleiner Perkins
+02-10-2017,Startup_458,USA,SaaS,38650768,Series A,Tiger Global
+28-06-2020,Startup_459,USA,FinTech,34115735,Private Equity,Sequoia
+11-05-2017,Startup_460,Canada,Logistics,86030941,Seed,Accel
+31-01-2019,Startup_461,India,SaaS,38916413,Series A,Y Combinator
+30-01-2017,Startup_462,UK,Logistics,31214083,Private Equity,Andreessen Horowitz
+20-10-2019,Startup_463,UK,FinTech,15536645,Private Equity,Kleiner Perkins
+09-09-2018,Startup_464,USA,Logistics,42384709,Series B,Lightspeed
+14-07-2020,Startup_465,Canada,FinTech,22311346,IPO,Sequoia
+22-05-2017,Startup_466,Singapore,SaaS,96701683,Series B,Andreessen Horowitz
+04-02-2022,Startup_467,USA,SaaS,55407352,Private Equity,Tiger Global
+04-08-2023,Startup_468,UK,FinTech,29977231,Private Equity,Lightspeed
+21-07-2017,Startup_469,USA,FinTech,49189121,Private Equity,Lightspeed
+03-01-2018,Startup_470,Singapore,Logistics,40520386,Series B,Y Combinator
+19-02-2020,Startup_471,Canada,HealthTech,60354661,Series B,Y Combinator
+08-12-2017,Startup_472,Canada,Logistics,51396341,IPO,Lightspeed
+12-12-2021,Startup_473,Germany,AI,41942010,Series C,Kleiner Perkins
+02-02-2019,Startup_474,Singapore,AI,8708958,Seed,SoftBank
+14-12-2018,Startup_475,Canada,FinTech,20424260,Private Equity,Andreessen Horowitz
+20-07-2021,Startup_476,Australia,AI,78006850,Series B,SoftBank
+26-10-2019,Startup_477,UK,AI,23380556,Series B,Sequoia
+01-02-2023,Startup_478,India,Logistics,23133093,Seed,Sequoia
+05-01-2022,Startup_479,Canada,E-Commerce,19913926,IPO,Sequoia
+17-05-2017,Startup_480,USA,AI,60503505,Series A,Accel
+01-07-2017,Startup_481,Singapore,HealthTech,52308804,Series A,SoftBank
+04-08-2021,Startup_482,UK,Logistics,3517260,Series C,Sequoia
+22-08-2023,Startup_483,Canada,Cybersecurity,56900029,Series A,Kleiner Perkins
+31-01-2020,Startup_484,UAE,Cybersecurity,28846547,IPO,Y Combinator
+07-03-2022,Startup_485,USA,Cybersecurity,19695541,Seed,Kleiner Perkins
+07-09-2020,Startup_486,Australia,EdTech,57414723,Series C,Andreessen Horowitz
+10-05-2022,Startup_487,Germany,EdTech,28625312,Seed,Tiger Global
+27-08-2023,Startup_488,Canada,Cybersecurity,54094127,IPO,Tiger Global
+07-11-2019,Startup_489,Australia,SaaS,83535188,Private Equity,Lightspeed
+25-09-2020,Startup_490,Germany,AI,60596569,Private Equity,Accel
+14-04-2020,Startup_491,Singapore,EdTech,27780267,Seed,Tiger Global
+16-12-2017,Startup_492,Australia,SaaS,8687567,Seed,Tiger Global
+05-07-2023,Startup_493,Australia,E-Commerce,99943500,Series C,Sequoia
+27-12-2019,Startup_494,Singapore,AI,8191851,Series B,Kleiner Perkins
+10-12-2020,Startup_495,Singapore,EdTech,34668337,IPO,Accel
+21-06-2021,Startup_496,Australia,E-Commerce,72510264,IPO,Y Combinator
+09-01-2023,Startup_497,USA,Cybersecurity,93051913,Series C,Andreessen Horowitz
+05-04-2023,Startup_498,Germany,EdTech,46153064,Seed,Accel
+19-12-2019,Startup_499,Australia,HealthTech,59218691,Series A,SoftBank
+30-10-2018,Startup_500,Germany,AI,39798237,Seed,Lightspeed
+08-09-2018,Startup_501,Germany,FinTech,56507589,Seed,Kleiner Perkins
+26-07-2021,Startup_502,UAE,SaaS,74909298,Seed,Kleiner Perkins
+27-09-2022,Startup_503,USA,Logistics,95685205,Series A,Accel
+13-05-2022,Startup_504,Singapore,SaaS,86694853,Series A,Accel
+17-10-2019,Startup_505,UAE,E-Commerce,74341322,Seed,Tiger Global
+18-11-2022,Startup_506,USA,SaaS,86602952,Seed,Lightspeed
+17-04-2018,Startup_507,Australia,E-Commerce,89260511,Series B,Y Combinator
+17-01-2018,Startup_508,UK,AI,36600703,Private Equity,Kleiner Perkins
+07-05-2023,Startup_509,Canada,HealthTech,32092860,Series B,Tiger Global
+16-03-2022,Startup_510,Singapore,AI,16806689,IPO,Kleiner Perkins
+29-06-2017,Startup_511,Canada,EdTech,23740013,IPO,Kleiner Perkins
+01-05-2021,Startup_512,India,EdTech,13226557,Series B,Andreessen Horowitz
+07-01-2020,Startup_513,Singapore,SaaS,12065701,Seed,Lightspeed
+18-05-2020,Startup_514,Canada,Logistics,67510362,Series C,Lightspeed
+26-06-2017,Startup_515,UK,Logistics,34279153,IPO,SoftBank
+15-09-2021,Startup_516,USA,AI,3210449,Series C,Kleiner Perkins
+27-12-2021,Startup_517,Singapore,FinTech,74660352,Series A,Tiger Global
+03-07-2020,Startup_518,India,FinTech,41784700,Series C,Kleiner Perkins
+09-06-2017,Startup_519,Germany,Cybersecurity,18032432,Series A,Kleiner Perkins
+15-02-2017,Startup_520,Singapore,SaaS,23351104,Private Equity,Lightspeed
+28-06-2017,Startup_521,India,Cybersecurity,32949615,Series B,Sequoia
+05-11-2017,Startup_522,USA,Logistics,81132795,Series C,SoftBank
+03-08-2017,Startup_523,Canada,AI,69392816,Private Equity,Accel
+19-11-2019,Startup_524,USA,Logistics,32447485,Seed,Tiger Global
+28-09-2018,Startup_525,UAE,SaaS,3403833,Seed,SoftBank
+25-11-2019,Startup_526,UK,HealthTech,38946921,Series B,Sequoia
+12-02-2019,Startup_527,Australia,AI,39367248,IPO,Tiger Global
+10-07-2020,Startup_528,UK,Cybersecurity,55550177,IPO,Kleiner Perkins
+20-09-2022,Startup_529,UK,EdTech,47997686,Seed,Accel
+18-03-2021,Startup_530,Australia,HealthTech,72385634,Seed,Lightspeed
+01-05-2021,Startup_531,Canada,Logistics,52058018,Series B,Andreessen Horowitz
+23-08-2022,Startup_532,Australia,Cybersecurity,12528709,Series C,Lightspeed
+12-05-2022,Startup_533,Canada,EdTech,54805615,Series C,Lightspeed
+17-11-2022,Startup_534,Germany,HealthTech,57396312,IPO,Y Combinator
+29-11-2018,Startup_535,Australia,SaaS,37311547,IPO,Tiger Global
+12-08-2022,Startup_536,Canada,Cybersecurity,80310889,Series B,Tiger Global
+11-04-2021,Startup_537,Australia,SaaS,2531346,Series A,Tiger Global
+30-06-2020,Startup_538,UK,E-Commerce,51538398,Series A,Andreessen Horowitz
+19-10-2021,Startup_539,UK,E-Commerce,80997832,Series B,SoftBank
+07-01-2021,Startup_540,Singapore,SaaS,23182860,Seed,Sequoia
+09-09-2018,Startup_541,India,E-Commerce,90229974,Series C,Y Combinator
+25-10-2021,Startup_542,Australia,Logistics,78528679,Series A,Tiger Global
+05-10-2017,Startup_543,Singapore,E-Commerce,46738444,Private Equity,Accel
+16-06-2023,Startup_544,Germany,E-Commerce,16777645,Private Equity,Andreessen Horowitz
+27-03-2023,Startup_545,UK,Logistics,99638475,Series C,Andreessen Horowitz
+06-05-2022,Startup_546,India,Logistics,53551099,Seed,Tiger Global
+14-10-2023,Startup_547,India,SaaS,8466788,Series A,Lightspeed
+04-02-2017,Startup_548,UAE,Logistics,82120022,IPO,Tiger Global
+01-06-2022,Startup_549,Australia,AI,93354200,Private Equity,Kleiner Perkins
+17-05-2018,Startup_550,UK,SaaS,7945290,Private Equity,Andreessen Horowitz
+20-11-2022,Startup_551,Germany,SaaS,42141928,Series C,Sequoia
+12-05-2023,Startup_552,USA,HealthTech,5504016,Private Equity,Y Combinator
+10-09-2022,Startup_553,Canada,Logistics,96763477,Private Equity,Accel
+11-02-2017,Startup_554,India,SaaS,19763026,Seed,Tiger Global
+06-11-2020,Startup_555,India,SaaS,88089232,IPO,Andreessen Horowitz
+29-01-2022,Startup_556,Canada,HealthTech,68538410,Series B,Andreessen Horowitz
+16-12-2018,Startup_557,UAE,EdTech,56716044,IPO,SoftBank
+13-05-2022,Startup_558,Canada,EdTech,19823264,Series C,Andreessen Horowitz
+19-09-2018,Startup_559,India,E-Commerce,78508339,Private Equity,Lightspeed
+05-03-2021,Startup_560,Singapore,AI,91239153,IPO,Kleiner Perkins
+20-10-2023,Startup_561,Australia,Cybersecurity,40112516,Seed,Y Combinator
+05-02-2019,Startup_562,UAE,FinTech,65183253,IPO,SoftBank
+07-08-2023,Startup_563,Canada,FinTech,99605243,Series A,Kleiner Perkins
+12-10-2021,Startup_564,Germany,FinTech,27095821,Series B,Lightspeed
+19-02-2023,Startup_565,UK,FinTech,62922517,Series A,Andreessen Horowitz
+28-08-2020,Startup_566,USA,Logistics,87845259,Series C,Andreessen Horowitz
+08-05-2018,Startup_567,Singapore,EdTech,84794952,Series A,Accel
+25-05-2022,Startup_568,India,EdTech,67954111,Series C,Y Combinator
+14-06-2017,Startup_569,USA,Cybersecurity,14272128,IPO,Y Combinator
+30-12-2018,Startup_570,Canada,FinTech,17916017,Series B,Y Combinator
+25-01-2017,Startup_571,Singapore,EdTech,49357217,IPO,Y Combinator
+13-01-2020,Startup_572,Australia,AI,51972409,Series A,SoftBank
+17-06-2020,Startup_573,Canada,E-Commerce,82647563,Series B,SoftBank
+24-11-2021,Startup_574,Canada,FinTech,91201640,Series C,Accel
+30-08-2023,Startup_575,Germany,E-Commerce,58612998,Series B,Y Combinator
+08-10-2017,Startup_576,Australia,E-Commerce,53967763,Seed,Kleiner Perkins
+24-10-2018,Startup_577,UK,FinTech,77669669,IPO,Sequoia
+21-07-2023,Startup_578,India,AI,38506008,Seed,Tiger Global
+09-02-2020,Startup_579,USA,EdTech,16954970,Series A,SoftBank
+26-05-2021,Startup_580,UAE,FinTech,81662072,Series A,Tiger Global
+19-01-2019,Startup_581,Singapore,EdTech,61082251,IPO,Lightspeed
+25-07-2019,Startup_582,USA,SaaS,98368289,IPO,Accel
+11-01-2017,Startup_583,Germany,EdTech,74932626,Seed,Andreessen Horowitz
+17-02-2019,Startup_584,Canada,HealthTech,78560169,IPO,SoftBank
+15-03-2023,Startup_585,USA,FinTech,48805391,Private Equity,Andreessen Horowitz
+18-05-2022,Startup_586,UAE,E-Commerce,39150144,IPO,Sequoia
+23-01-2022,Startup_587,Singapore,SaaS,50060409,Series B,Lightspeed
+28-03-2023,Startup_588,India,Logistics,14702832,IPO,Tiger Global
+07-06-2017,Startup_589,Singapore,Cybersecurity,45492238,Series B,Accel
+06-09-2019,Startup_590,USA,HealthTech,17313405,Series C,Accel
+29-12-2018,Startup_591,UK,Cybersecurity,68213957,Series C,Andreessen Horowitz
+20-06-2019,Startup_592,Singapore,AI,50224398,Series B,Sequoia
+16-01-2021,Startup_593,UAE,Cybersecurity,56913432,Series C,SoftBank
+09-01-2020,Startup_594,Singapore,AI,19427643,Seed,Tiger Global
+11-06-2020,Startup_595,UK,Cybersecurity,26339492,IPO,Y Combinator
+03-05-2021,Startup_596,Singapore,SaaS,14028985,IPO,SoftBank
+24-07-2020,Startup_597,Germany,SaaS,3196473,Series A,Accel
+10-12-2021,Startup_598,Australia,EdTech,67991303,Series B,Tiger Global
+06-04-2020,Startup_599,Germany,HealthTech,46127109,Series C,Andreessen Horowitz
+03-11-2022,Startup_600,India,SaaS,29910752,IPO,Y Combinator
+12-05-2018,Startup_601,Australia,E-Commerce,75592932,Series C,Lightspeed
+19-05-2020,Startup_602,USA,AI,14171686,Series B,Andreessen Horowitz
+22-09-2022,Startup_603,Australia,Logistics,25020537,Series A,Andreessen Horowitz
+16-05-2017,Startup_604,UK,AI,83016204,Series A,Andreessen Horowitz
+06-01-2022,Startup_605,India,Cybersecurity,55847186,Private Equity,Y Combinator
+26-10-2017,Startup_606,Germany,FinTech,25479587,Series C,Sequoia
+24-06-2022,Startup_607,USA,Logistics,66386091,IPO,Accel
+06-01-2023,Startup_608,Germany,E-Commerce,38263577,Seed,Y Combinator
+25-07-2022,Startup_609,Australia,EdTech,61702281,Series A,Y Combinator
+21-09-2019,Startup_610,Australia,Logistics,46760075,IPO,Sequoia
+14-04-2023,Startup_611,India,Logistics,94332668,Series B,Kleiner Perkins
+06-04-2023,Startup_612,Germany,FinTech,32508879,IPO,Sequoia
+03-09-2023,Startup_613,Germany,E-Commerce,737904,Series C,Accel
+02-04-2020,Startup_614,Singapore,EdTech,59404046,Seed,Sequoia
+17-06-2023,Startup_615,Germany,SaaS,53112218,Series C,SoftBank
+15-01-2020,Startup_616,USA,EdTech,6099245,Series C,Tiger Global
+01-11-2022,Startup_617,India,Cybersecurity,58344177,Seed,Accel
+03-11-2023,Startup_618,UK,EdTech,44716203,Series B,SoftBank
+27-01-2022,Startup_619,UK,Cybersecurity,93056463,Series B,SoftBank
+06-12-2021,Startup_620,Singapore,SaaS,41744299,Seed,SoftBank
+14-04-2019,Startup_621,Canada,E-Commerce,50954591,Series C,Lightspeed
+10-03-2022,Startup_622,USA,HealthTech,58121018,Seed,Kleiner Perkins
+07-07-2023,Startup_623,Australia,HealthTech,78313141,Series C,Accel
+01-11-2018,Startup_624,Canada,HealthTech,93692388,Seed,Tiger Global
+16-08-2017,Startup_625,UK,E-Commerce,40843135,Series A,Andreessen Horowitz
+22-12-2022,Startup_626,India,SaaS,91623600,Series C,Y Combinator
+14-10-2017,Startup_627,Canada,HealthTech,23983687,Private Equity,Sequoia
+30-09-2022,Startup_628,UAE,HealthTech,7316088,Series A,Kleiner Perkins
+26-12-2021,Startup_629,USA,HealthTech,62405927,Series B,Andreessen Horowitz
+16-10-2017,Startup_630,Australia,Cybersecurity,67532840,Private Equity,Lightspeed
+03-06-2018,Startup_631,Canada,Cybersecurity,46164033,Series A,Lightspeed
+09-12-2022,Startup_632,UAE,EdTech,87230806,Series A,Andreessen Horowitz
+06-05-2022,Startup_633,Canada,E-Commerce,30371554,Seed,Lightspeed
+12-10-2022,Startup_634,Australia,E-Commerce,58090213,Seed,Y Combinator
+11-06-2019,Startup_635,Germany,AI,79703618,Series C,Sequoia
+19-10-2020,Startup_636,Australia,Cybersecurity,8963564,Private Equity,Tiger Global
+04-02-2019,Startup_637,Australia,AI,46153851,IPO,Accel
+11-09-2021,Startup_638,UK,AI,78079730,Private Equity,SoftBank
+21-09-2020,Startup_639,UK,E-Commerce,30675627,Series C,Sequoia
+14-05-2022,Startup_640,Australia,AI,76008684,Series A,Lightspeed
+21-01-2022,Startup_641,USA,AI,65624425,IPO,Kleiner Perkins
+14-03-2021,Startup_642,USA,Logistics,41949083,Series B,Tiger Global
+12-07-2021,Startup_643,India,EdTech,53916251,Series C,Kleiner Perkins
+11-12-2021,Startup_644,Singapore,HealthTech,40819962,Series B,Sequoia
+28-01-2019,Startup_645,India,FinTech,6293140,Series A,Tiger Global
+08-09-2021,Startup_646,Singapore,FinTech,92151545,Private Equity,Tiger Global
+28-04-2023,Startup_647,Australia,EdTech,77799520,IPO,Lightspeed
+24-10-2017,Startup_648,UAE,Cybersecurity,69849362,IPO,Tiger Global
+30-10-2018,Startup_649,Canada,EdTech,20234017,Seed,SoftBank
+26-08-2022,Startup_650,Singapore,EdTech,18001233,Private Equity,Accel
+04-10-2019,Startup_651,India,EdTech,75217769,Private Equity,Accel
+29-06-2018,Startup_652,Canada,FinTech,50310475,Series C,SoftBank
+21-10-2018,Startup_653,UK,FinTech,86471156,Series C,SoftBank
+11-12-2017,Startup_654,Singapore,SaaS,55168793,Seed,Y Combinator
+02-08-2023,Startup_655,UAE,Cybersecurity,85403344,Seed,Accel
+11-08-2021,Startup_656,Canada,EdTech,53814427,Series B,Kleiner Perkins
+26-10-2022,Startup_657,Singapore,E-Commerce,27172894,Private Equity,Accel
+30-07-2022,Startup_658,UAE,HealthTech,60252606,Series C,SoftBank
+25-06-2023,Startup_659,Singapore,E-Commerce,96874454,Series A,Y Combinator
+08-04-2017,Startup_660,USA,SaaS,43748455,Seed,SoftBank
+03-03-2019,Startup_661,Singapore,SaaS,32953372,Series A,Accel
+16-03-2018,Startup_662,USA,EdTech,55912196,Seed,Lightspeed
+11-02-2020,Startup_663,Singapore,EdTech,15678864,IPO,Tiger Global
+11-12-2020,Startup_664,Canada,EdTech,86682032,IPO,Kleiner Perkins
+22-12-2018,Startup_665,USA,Logistics,64537299,Series A,Sequoia
+30-11-2021,Startup_666,UK,FinTech,51206626,Private Equity,Lightspeed
+25-07-2022,Startup_667,India,E-Commerce,69890992,Private Equity,Andreessen Horowitz
+10-04-2018,Startup_668,Singapore,FinTech,12638825,Series C,Accel
+05-07-2023,Startup_669,Germany,AI,91985641,Series A,SoftBank
+30-07-2019,Startup_670,Singapore,Cybersecurity,44955503,Seed,Kleiner Perkins
+18-06-2023,Startup_671,UK,Logistics,97425626,Series B,Tiger Global
+23-03-2023,Startup_672,UK,FinTech,67349601,Series B,Y Combinator
+10-06-2017,Startup_673,India,HealthTech,33047222,Series C,SoftBank
+27-12-2017,Startup_674,Germany,Logistics,33939005,Seed,Andreessen Horowitz
+25-08-2023,Startup_675,Australia,AI,48173297,Private Equity,Y Combinator
+07-03-2019,Startup_676,USA,HealthTech,5506039,Series B,Lightspeed
+28-02-2023,Startup_677,Australia,E-Commerce,79961250,Series A,Andreessen Horowitz
+13-08-2018,Startup_678,Singapore,AI,74167042,IPO,Andreessen Horowitz
+25-05-2022,Startup_679,Australia,E-Commerce,55144942,Series C,Tiger Global
+23-02-2023,Startup_680,Canada,EdTech,84367468,Private Equity,Andreessen Horowitz
+19-12-2021,Startup_681,Australia,E-Commerce,64932627,Series C,SoftBank
+08-03-2022,Startup_682,India,SaaS,11064234,Private Equity,Kleiner Perkins
+02-03-2021,Startup_683,UK,EdTech,6298531,Private Equity,SoftBank
+21-02-2023,Startup_684,USA,EdTech,20501531,Series B,SoftBank
+15-05-2023,Startup_685,Canada,E-Commerce,83357536,Seed,SoftBank
+20-10-2020,Startup_686,India,E-Commerce,5447223,Private Equity,SoftBank
+08-10-2017,Startup_687,UAE,EdTech,29040357,Series C,Accel
+04-09-2022,Startup_688,India,Logistics,5271875,Series C,Kleiner Perkins
+04-12-2021,Startup_689,Germany,Logistics,34785945,Series A,Sequoia
+16-11-2022,Startup_690,Australia,E-Commerce,79385501,Private Equity,SoftBank
+25-11-2021,Startup_691,Germany,HealthTech,83298961,Series A,Kleiner Perkins
+25-05-2022,Startup_692,India,AI,9221431,Series C,Tiger Global
+28-09-2018,Startup_693,UK,AI,32916092,Series A,Kleiner Perkins
+02-08-2020,Startup_694,Singapore,FinTech,73075635,Series B,Y Combinator
+16-01-2022,Startup_695,India,FinTech,87881877,Series A,Y Combinator
+30-04-2020,Startup_696,Australia,E-Commerce,96280574,Series B,Andreessen Horowitz
+15-07-2018,Startup_697,India,Cybersecurity,79197614,Series C,Sequoia
+01-08-2019,Startup_698,India,Logistics,64840392,Private Equity,Andreessen Horowitz
+05-08-2017,Startup_699,Singapore,FinTech,86883910,Seed,Andreessen Horowitz
+07-09-2018,Startup_700,USA,AI,42427369,Private Equity,Sequoia
+13-09-2019,Startup_701,Germany,FinTech,36244595,Private Equity,Accel
+13-09-2018,Startup_702,UK,E-Commerce,61079301,Series C,Andreessen Horowitz
+03-10-2017,Startup_703,India,AI,7799983,IPO,Tiger Global
+28-11-2021,Startup_704,India,Logistics,97554935,Series A,Accel
+15-02-2022,Startup_705,UK,Logistics,20749454,Private Equity,Sequoia
+11-07-2020,Startup_706,UAE,HealthTech,96303082,Seed,Kleiner Perkins
+23-07-2020,Startup_707,UAE,AI,55720465,Series B,Andreessen Horowitz
+27-08-2020,Startup_708,India,AI,26132688,Private Equity,Tiger Global
+15-05-2017,Startup_709,Germany,AI,55701743,Seed,SoftBank
+08-02-2019,Startup_710,Germany,Logistics,36570542,Private Equity,Y Combinator
+15-08-2023,Startup_711,UAE,SaaS,49713911,IPO,Tiger Global
+27-03-2021,Startup_712,Australia,Cybersecurity,79209423,Series C,Lightspeed
+29-12-2017,Startup_713,Canada,SaaS,14575106,Series B,Sequoia
+05-09-2022,Startup_714,UAE,AI,84957749,IPO,Andreessen Horowitz
+03-04-2019,Startup_715,UK,HealthTech,82784811,Seed,SoftBank
+25-07-2023,Startup_716,Germany,FinTech,6073614,Seed,SoftBank
+07-07-2022,Startup_717,UK,EdTech,54769606,Series B,Tiger Global
+13-10-2021,Startup_718,Germany,Logistics,77388510,Seed,Kleiner Perkins
+14-10-2020,Startup_719,UK,Logistics,73723046,Series B,Andreessen Horowitz
+06-06-2017,Startup_720,Australia,HealthTech,8750980,Series C,Andreessen Horowitz
+18-02-2019,Startup_721,UK,E-Commerce,62961472,Private Equity,Sequoia
+25-06-2021,Startup_722,UK,HealthTech,79987178,Private Equity,SoftBank
+12-05-2019,Startup_723,India,EdTech,63203955,IPO,Sequoia
+21-06-2023,Startup_724,USA,HealthTech,24840920,Series C,Y Combinator
+14-07-2018,Startup_725,India,E-Commerce,9098473,Series C,SoftBank
+07-02-2020,Startup_726,UAE,AI,25447509,Series C,Tiger Global
+24-11-2020,Startup_727,USA,EdTech,83538947,Series A,Lightspeed
+15-12-2020,Startup_728,Germany,FinTech,92674413,IPO,Andreessen Horowitz
+21-07-2022,Startup_729,Australia,Cybersecurity,74995298,Series B,Lightspeed
+22-09-2022,Startup_730,USA,Cybersecurity,44717202,IPO,SoftBank
+06-05-2017,Startup_731,Australia,Logistics,88935190,Series C,Sequoia
+07-11-2018,Startup_732,Canada,EdTech,11033319,Private Equity,Accel
+22-12-2022,Startup_733,UAE,EdTech,93751813,IPO,Lightspeed
+22-02-2022,Startup_734,India,FinTech,27680159,IPO,Lightspeed
+12-03-2022,Startup_735,USA,SaaS,19911608,Series A,Lightspeed
+16-08-2023,Startup_736,Germany,Cybersecurity,15199322,Series B,SoftBank
+03-07-2018,Startup_737,India,FinTech,59626056,Series A,Y Combinator
+30-06-2021,Startup_738,UK,SaaS,52820961,Seed,Andreessen Horowitz
+30-10-2017,Startup_739,USA,E-Commerce,56512421,Seed,Sequoia
+05-08-2018,Startup_740,India,SaaS,7625120,Series C,Kleiner Perkins
+05-04-2021,Startup_741,UAE,HealthTech,59931333,IPO,Accel
+04-08-2020,Startup_742,Australia,SaaS,91937596,Series A,Lightspeed
+06-08-2018,Startup_743,Australia,FinTech,29961740,Seed,Accel
+21-06-2017,Startup_744,USA,Logistics,98459123,Seed,Y Combinator
+17-10-2023,Startup_745,India,Logistics,7314566,Series B,Sequoia
+14-03-2018,Startup_746,Australia,AI,62103011,IPO,Kleiner Perkins
+23-05-2022,Startup_747,Germany,AI,4378118,Series A,Tiger Global
+12-08-2018,Startup_748,UK,Logistics,66489151,IPO,Y Combinator
+19-05-2021,Startup_749,Germany,Logistics,83854226,Seed,Sequoia
+14-06-2023,Startup_750,India,Logistics,12756304,Seed,Tiger Global
+27-06-2017,Startup_751,USA,Cybersecurity,43322813,IPO,Andreessen Horowitz
+11-09-2020,Startup_752,India,AI,63963800,Private Equity,Accel
+30-07-2017,Startup_753,Canada,E-Commerce,34240281,Series B,SoftBank
+23-06-2017,Startup_754,Australia,Logistics,41808991,Series C,Tiger Global
+18-05-2020,Startup_755,Singapore,HealthTech,70037060,Private Equity,Sequoia
+28-12-2017,Startup_756,Canada,EdTech,84493013,Private Equity,Accel
+11-07-2022,Startup_757,USA,Logistics,49183211,Series C,SoftBank
+16-05-2022,Startup_758,Australia,SaaS,78198981,Series A,Kleiner Perkins
+04-10-2019,Startup_759,Canada,E-Commerce,58163465,Series A,Andreessen Horowitz
+11-07-2022,Startup_760,India,Cybersecurity,57661873,Private Equity,Andreessen Horowitz
+27-07-2023,Startup_761,Canada,E-Commerce,36676427,Series B,Accel
+16-02-2020,Startup_762,India,Cybersecurity,60316248,Series C,Kleiner Perkins
+22-03-2023,Startup_763,Australia,HealthTech,28069394,Series B,Lightspeed
+06-12-2018,Startup_764,Singapore,E-Commerce,56574059,Seed,Sequoia
+21-12-2017,Startup_765,UK,FinTech,16662572,IPO,Sequoia
+22-10-2022,Startup_766,Singapore,Logistics,10623792,Seed,Y Combinator
+21-10-2021,Startup_767,Australia,Logistics,38493445,Seed,Y Combinator
+27-05-2019,Startup_768,Singapore,EdTech,50790167,Series B,Accel
+16-05-2020,Startup_769,Germany,HealthTech,69094524,Seed,SoftBank
+16-05-2017,Startup_770,Germany,E-Commerce,80029504,Private Equity,Accel
+21-05-2017,Startup_771,USA,Logistics,21287177,Series A,Sequoia
+31-12-2018,Startup_772,India,Logistics,16726813,Seed,Andreessen Horowitz
+02-12-2017,Startup_773,Australia,HealthTech,54752072,Private Equity,Andreessen Horowitz
+29-11-2018,Startup_774,Australia,EdTech,72112169,Series C,SoftBank
+15-09-2018,Startup_775,Australia,EdTech,83439681,Series C,SoftBank
+08-03-2023,Startup_776,UAE,Cybersecurity,1467981,Series C,Sequoia
+28-08-2022,Startup_777,Canada,EdTech,83554176,Seed,SoftBank
+03-02-2020,Startup_778,Germany,HealthTech,88351045,Series C,SoftBank
+25-01-2018,Startup_779,Canada,SaaS,43279573,Private Equity,Tiger Global
+09-12-2017,Startup_780,Australia,AI,15279071,IPO,Kleiner Perkins
+03-08-2020,Startup_781,Canada,HealthTech,8991394,Seed,SoftBank
+08-01-2023,Startup_782,Canada,HealthTech,67835371,Private Equity,Sequoia
+21-04-2022,Startup_783,Germany,Cybersecurity,11905835,Private Equity,Andreessen Horowitz
+03-08-2017,Startup_784,Singapore,Cybersecurity,27539148,Series A,Accel
+08-07-2021,Startup_785,Singapore,E-Commerce,46578945,Private Equity,Andreessen Horowitz
+10-10-2020,Startup_786,India,AI,51520723,Private Equity,SoftBank
+19-07-2017,Startup_787,UAE,E-Commerce,50221491,Seed,Kleiner Perkins
+23-12-2021,Startup_788,Canada,EdTech,2647176,Private Equity,SoftBank
+18-05-2020,Startup_789,UK,E-Commerce,60218712,IPO,Lightspeed
+26-09-2019,Startup_790,UK,Logistics,36035171,Series B,Accel
+02-07-2023,Startup_791,Singapore,SaaS,66095089,Private Equity,Sequoia
+05-12-2022,Startup_792,India,EdTech,8111612,Series C,Accel
+14-12-2018,Startup_793,USA,FinTech,33415421,Series B,Tiger Global
+29-11-2018,Startup_794,USA,Logistics,33111006,Series B,Lightspeed
+10-03-2020,Startup_795,Australia,HealthTech,26882955,Seed,Tiger Global
+16-01-2019,Startup_796,UK,AI,90616933,Private Equity,SoftBank
+14-11-2017,Startup_797,Singapore,EdTech,63862200,Private Equity,SoftBank
+16-01-2020,Startup_798,India,HealthTech,70220289,Private Equity,Lightspeed
+18-12-2021,Startup_799,Singapore,FinTech,46065603,IPO,Tiger Global
+18-01-2022,Startup_800,Canada,Cybersecurity,11283030,Seed,Kleiner Perkins
+14-09-2019,Startup_801,USA,HealthTech,69131891,Seed,Kleiner Perkins
+01-08-2019,Startup_802,Canada,FinTech,97166815,IPO,Andreessen Horowitz
+23-12-2017,Startup_803,UAE,EdTech,77132121,Series C,SoftBank
+17-12-2017,Startup_804,Canada,AI,41349671,Series C,Lightspeed
+25-12-2019,Startup_805,Singapore,E-Commerce,58265405,Series B,Y Combinator
+13-02-2019,Startup_806,Canada,FinTech,34963116,Series A,Tiger Global
+01-07-2019,Startup_807,USA,FinTech,73161635,Series B,SoftBank
+30-05-2020,Startup_808,Singapore,E-Commerce,83240485,Series B,Accel
+04-09-2021,Startup_809,UAE,HealthTech,33979631,Series A,Y Combinator
+22-05-2020,Startup_810,Australia,Logistics,48459326,IPO,Accel
+25-09-2020,Startup_811,USA,SaaS,47193415,Seed,Lightspeed
+15-01-2020,Startup_812,Germany,FinTech,33829513,Private Equity,Y Combinator
+09-10-2023,Startup_813,Singapore,E-Commerce,11680474,Private Equity,Y Combinator
+13-11-2021,Startup_814,UAE,FinTech,29355832,Series A,Andreessen Horowitz
+27-05-2023,Startup_815,UK,EdTech,41856345,Series B,Y Combinator
+05-05-2017,Startup_816,Germany,SaaS,59540180,Series A,Sequoia
+24-05-2017,Startup_817,USA,HealthTech,86825364,Private Equity,SoftBank
+23-08-2017,Startup_818,Australia,Logistics,96901551,Seed,Kleiner Perkins
+02-07-2017,Startup_819,Canada,FinTech,58322035,Series B,Accel
+14-05-2017,Startup_820,Germany,AI,40983000,Series B,Lightspeed
+16-11-2018,Startup_821,UK,E-Commerce,96608307,Series B,Andreessen Horowitz
+13-05-2023,Startup_822,India,FinTech,16410131,Series C,Kleiner Perkins
+03-03-2021,Startup_823,UAE,EdTech,88022915,Series A,Lightspeed
+05-01-2022,Startup_824,Singapore,E-Commerce,25162428,Series C,Tiger Global
+18-08-2021,Startup_825,Germany,HealthTech,13830055,Private Equity,Kleiner Perkins
+10-09-2021,Startup_826,Singapore,Cybersecurity,4166914,Series C,Tiger Global
+03-04-2018,Startup_827,India,AI,44190850,Seed,Sequoia
+28-05-2019,Startup_828,UK,EdTech,97065239,Series C,Y Combinator
+10-06-2017,Startup_829,UAE,Logistics,6014250,Private Equity,Accel
+02-09-2019,Startup_830,Canada,HealthTech,74343184,Series B,Lightspeed
+08-01-2020,Startup_831,Germany,FinTech,56476733,Series A,Sequoia
+06-05-2020,Startup_832,Singapore,AI,77169857,IPO,Lightspeed
+28-11-2019,Startup_833,UAE,FinTech,73325837,Series B,Kleiner Perkins
+16-02-2023,Startup_834,Germany,Logistics,84703294,Seed,Andreessen Horowitz
+01-03-2020,Startup_835,Canada,EdTech,17931574,Private Equity,Sequoia
+20-09-2020,Startup_836,Singapore,AI,91857205,Series A,Kleiner Perkins
+08-12-2021,Startup_837,Canada,Cybersecurity,76954589,Seed,SoftBank
+30-10-2018,Startup_838,India,AI,345225,Private Equity,Andreessen Horowitz
+24-06-2017,Startup_839,India,E-Commerce,21686746,Private Equity,Tiger Global
+16-08-2019,Startup_840,Singapore,FinTech,22587968,IPO,Sequoia
+20-08-2019,Startup_841,Germany,AI,9616222,Seed,SoftBank
+21-03-2021,Startup_842,Canada,SaaS,78837876,Series C,SoftBank
+29-09-2018,Startup_843,Australia,SaaS,35062019,IPO,Tiger Global
+23-03-2017,Startup_844,USA,EdTech,10312269,Seed,SoftBank
+24-08-2021,Startup_845,Singapore,Cybersecurity,12670896,IPO,Lightspeed
+23-05-2020,Startup_846,India,Cybersecurity,35866180,Series A,Tiger Global
+15-06-2023,Startup_847,USA,EdTech,49321004,Series B,Tiger Global
+30-01-2022,Startup_848,Australia,Logistics,81648380,Seed,Sequoia
+11-12-2017,Startup_849,Germany,SaaS,6835563,Series C,Andreessen Horowitz
+13-10-2018,Startup_850,India,FinTech,55673904,Series C,Sequoia
+04-04-2019,Startup_851,UK,AI,3872189,Series A,Andreessen Horowitz
+22-07-2020,Startup_852,Germany,Logistics,30180420,Private Equity,Accel
+06-05-2020,Startup_853,Singapore,AI,10266541,Seed,Tiger Global
+31-07-2021,Startup_854,USA,HealthTech,75559836,Series C,Lightspeed
+20-12-2021,Startup_855,UK,FinTech,42544067,Seed,Kleiner Perkins
+28-01-2019,Startup_856,Canada,HealthTech,39249638,Series C,Y Combinator
+18-06-2018,Startup_857,UK,E-Commerce,43096632,Series B,Andreessen Horowitz
+13-06-2020,Startup_858,USA,SaaS,18846421,IPO,Sequoia
+20-02-2020,Startup_859,Germany,Cybersecurity,29553724,Seed,Lightspeed
+16-08-2019,Startup_860,Canada,Logistics,61553344,Series A,SoftBank
+16-05-2018,Startup_861,USA,E-Commerce,79274863,Seed,Kleiner Perkins
+03-08-2018,Startup_862,Germany,SaaS,76569781,Series B,Andreessen Horowitz
+22-04-2023,Startup_863,Singapore,SaaS,94893493,Series B,Accel
+13-12-2019,Startup_864,UK,SaaS,44148831,Series A,Y Combinator
+22-04-2023,Startup_865,Canada,SaaS,88107168,Series B,Tiger Global
+14-05-2022,Startup_866,Singapore,HealthTech,97792416,Series A,SoftBank
+25-09-2022,Startup_867,Australia,FinTech,96287250,Series A,Y Combinator
+08-06-2022,Startup_868,UK,Cybersecurity,38711672,Series B,Accel
+02-07-2022,Startup_869,UAE,FinTech,52323887,Series C,Lightspeed
+01-04-2023,Startup_870,Singapore,EdTech,11254825,Seed,Tiger Global
+11-03-2021,Startup_871,UAE,Cybersecurity,97464254,Private Equity,Accel
+15-01-2022,Startup_872,India,EdTech,32874718,Series C,Andreessen Horowitz
+09-07-2019,Startup_873,UK,AI,32481940,Private Equity,SoftBank
+19-03-2021,Startup_874,UAE,EdTech,89822834,Series A,Y Combinator
+19-08-2020,Startup_875,USA,Cybersecurity,26332006,IPO,Andreessen Horowitz
+19-09-2022,Startup_876,Germany,SaaS,1721659,Series B,Y Combinator
+23-12-2021,Startup_877,Germany,Logistics,49799676,Seed,Lightspeed
+07-06-2023,Startup_878,Singapore,Logistics,64755279,Series A,Kleiner Perkins
+03-10-2023,Startup_879,Singapore,AI,79822672,Series B,Andreessen Horowitz
+18-04-2022,Startup_880,Singapore,E-Commerce,89728218,Seed,Lightspeed
+05-05-2021,Startup_881,India,AI,33797163,Series C,Accel
+15-05-2018,Startup_882,UAE,FinTech,59842412,Series A,Accel
+18-09-2020,Startup_883,Australia,E-Commerce,55692318,Series C,Kleiner Perkins
+11-03-2022,Startup_884,Australia,EdTech,46429761,Private Equity,SoftBank
+22-04-2019,Startup_885,UK,Logistics,42469936,Private Equity,Lightspeed
+01-07-2020,Startup_886,Australia,SaaS,93426929,IPO,Sequoia
+02-09-2019,Startup_887,Germany,AI,55617482,Seed,Lightspeed
+13-09-2017,Startup_888,Australia,HealthTech,26017452,Series C,Kleiner Perkins
+10-07-2018,Startup_889,Canada,AI,7627896,Series C,Tiger Global
+09-11-2020,Startup_890,Canada,Cybersecurity,97996020,Private Equity,Kleiner Perkins
+08-11-2021,Startup_891,USA,E-Commerce,1339262,IPO,Accel
+12-03-2019,Startup_892,Singapore,E-Commerce,35603748,Private Equity,Kleiner Perkins
+11-07-2020,Startup_893,UK,FinTech,95388968,Series A,Accel
+12-04-2017,Startup_894,Australia,FinTech,43920345,Series C,Lightspeed
+14-01-2022,Startup_895,Singapore,Cybersecurity,34905746,Series B,Sequoia
+17-10-2017,Startup_896,USA,E-Commerce,86264089,Series A,Tiger Global
+18-03-2020,Startup_897,Canada,SaaS,58786425,Seed,Accel
+19-05-2017,Startup_898,Singapore,HealthTech,4122050,Series B,Lightspeed
+12-01-2020,Startup_899,USA,FinTech,32548884,Series C,Y Combinator
+09-08-2023,Startup_900,USA,E-Commerce,69872264,IPO,Lightspeed
+04-03-2019,Startup_901,UK,AI,94259169,IPO,SoftBank
+13-01-2023,Startup_902,Germany,Logistics,89243467,Series C,Lightspeed
+11-01-2018,Startup_903,Canada,Logistics,12290065,Series C,Y Combinator
+09-01-2019,Startup_904,USA,AI,35370358,Series B,Tiger Global
+02-01-2019,Startup_905,USA,FinTech,35316860,Series B,Tiger Global
+09-11-2021,Startup_906,India,E-Commerce,6864161,Series B,Andreessen Horowitz
+07-12-2019,Startup_907,UK,HealthTech,48529733,Seed,Lightspeed
+14-10-2022,Startup_908,USA,HealthTech,10697531,IPO,Y Combinator
+07-06-2020,Startup_909,Canada,Logistics,92137380,Series B,Tiger Global
+15-05-2021,Startup_910,Australia,FinTech,95435442,Series B,Tiger Global
+17-12-2022,Startup_911,Australia,EdTech,75508741,IPO,Sequoia
+19-02-2019,Startup_912,USA,HealthTech,17843347,Series A,Accel
+23-04-2018,Startup_913,Singapore,SaaS,22492182,Series A,Y Combinator
+31-07-2019,Startup_914,Australia,HealthTech,64917829,Private Equity,Kleiner Perkins
+18-08-2023,Startup_915,Singapore,E-Commerce,44557280,Series A,Lightspeed
+12-07-2022,Startup_916,Singapore,AI,65558742,IPO,Tiger Global
+16-06-2022,Startup_917,USA,FinTech,11019989,IPO,SoftBank
+02-12-2018,Startup_918,Canada,FinTech,92862935,Series B,SoftBank
+06-10-2022,Startup_919,India,FinTech,57583513,Series B,Sequoia
+10-03-2020,Startup_920,UK,SaaS,41683325,Seed,Tiger Global
+14-10-2020,Startup_921,USA,Cybersecurity,45053225,Series B,Accel
+22-01-2019,Startup_922,USA,E-Commerce,32554115,Series A,Andreessen Horowitz
+02-05-2022,Startup_923,USA,SaaS,94264945,Series C,Lightspeed
+26-01-2019,Startup_924,Singapore,SaaS,75837721,Series A,Sequoia
+03-07-2022,Startup_925,Germany,HealthTech,69988206,Private Equity,SoftBank
+24-02-2021,Startup_926,UAE,AI,71851073,Private Equity,Accel
+27-08-2019,Startup_927,UAE,Cybersecurity,72402025,Series B,Tiger Global
+26-02-2023,Startup_928,UAE,Logistics,13427079,Series A,Tiger Global
+11-09-2018,Startup_929,India,HealthTech,38139570,IPO,Sequoia
+18-05-2023,Startup_930,UK,SaaS,83394931,Series B,Lightspeed
+06-02-2020,Startup_931,India,AI,96642740,Private Equity,Tiger Global
+11-07-2019,Startup_932,India,Logistics,7109115,Series C,Andreessen Horowitz
+25-07-2017,Startup_933,USA,Cybersecurity,47786550,IPO,SoftBank
+25-03-2021,Startup_934,Singapore,SaaS,95554271,Series C,Y Combinator
+18-08-2021,Startup_935,Singapore,HealthTech,89284143,Seed,SoftBank
+23-01-2021,Startup_936,Germany,FinTech,77475632,Series B,Lightspeed
+06-05-2020,Startup_937,Canada,EdTech,65398440,Series C,Andreessen Horowitz
+24-08-2021,Startup_938,Germany,HealthTech,27705075,Seed,Kleiner Perkins
+29-07-2018,Startup_939,Australia,Logistics,18093582,Private Equity,Tiger Global
+19-02-2019,Startup_940,USA,E-Commerce,96222962,Private Equity,SoftBank
+28-09-2020,Startup_941,Australia,AI,32981425,Series B,Tiger Global
+23-05-2017,Startup_942,UAE,FinTech,6249376,Seed,SoftBank
+06-12-2022,Startup_943,USA,FinTech,75605355,Private Equity,Y Combinator
+18-08-2020,Startup_944,UK,HealthTech,73922411,Seed,Kleiner Perkins
+13-01-2020,Startup_945,India,Logistics,79915028,IPO,Y Combinator
+18-06-2017,Startup_946,India,Cybersecurity,69168265,IPO,Andreessen Horowitz
+23-07-2017,Startup_947,Singapore,EdTech,83846093,Seed,Lightspeed
+17-09-2018,Startup_948,Canada,EdTech,41391347,Series C,Kleiner Perkins
+13-03-2020,Startup_949,USA,SaaS,78261235,Seed,Accel
+31-05-2020,Startup_950,India,SaaS,83021092,IPO,SoftBank
+23-11-2018,Startup_951,Germany,EdTech,11187192,Private Equity,Lightspeed
+23-05-2018,Startup_952,UAE,Logistics,34989020,Series C,SoftBank
+08-04-2020,Startup_953,UAE,HealthTech,79907127,Private Equity,Kleiner Perkins
+12-10-2022,Startup_954,Germany,HealthTech,88005812,IPO,Kleiner Perkins
+02-03-2019,Startup_955,Australia,FinTech,70499112,Seed,Lightspeed
+26-04-2022,Startup_956,India,E-Commerce,9921844,Series A,Andreessen Horowitz
+23-01-2018,Startup_957,Singapore,HealthTech,60824454,Series C,SoftBank
+29-11-2021,Startup_958,UK,HealthTech,28468469,IPO,Lightspeed
+18-02-2019,Startup_959,Canada,Logistics,21324372,Seed,Tiger Global
+19-06-2017,Startup_960,Germany,FinTech,50230165,IPO,Andreessen Horowitz
+18-12-2017,Startup_961,USA,SaaS,21064176,Series A,Kleiner Perkins
+06-10-2022,Startup_962,Singapore,Logistics,40248915,Series A,Sequoia
+26-03-2021,Startup_963,Canada,AI,22557519,Seed,Andreessen Horowitz
+28-05-2020,Startup_964,Canada,Logistics,66739962,Series A,Kleiner Perkins
+22-08-2020,Startup_965,Australia,HealthTech,76641609,Seed,Tiger Global
+29-10-2023,Startup_966,UAE,Logistics,41338396,Series C,Y Combinator
+19-04-2021,Startup_967,Australia,HealthTech,18759440,Series B,Y Combinator
+24-01-2023,Startup_968,Germany,HealthTech,77264782,Series A,SoftBank
+25-10-2018,Startup_969,UK,Cybersecurity,50633233,Series B,Accel
+27-03-2022,Startup_970,USA,Cybersecurity,59713896,Series C,Y Combinator
+19-04-2019,Startup_971,UAE,AI,46697305,Series A,Tiger Global
+14-04-2020,Startup_972,UK,EdTech,44086465,Series C,Andreessen Horowitz
+15-10-2017,Startup_973,Canada,Logistics,33734586,Series B,Andreessen Horowitz
+30-11-2018,Startup_974,Singapore,Logistics,27817627,IPO,Kleiner Perkins
+01-08-2019,Startup_975,UAE,AI,65772453,IPO,Andreessen Horowitz
+21-08-2020,Startup_976,Germany,EdTech,41974305,Private Equity,Sequoia
+08-08-2018,Startup_977,Canada,AI,54082798,Series B,Andreessen Horowitz
+08-12-2020,Startup_978,India,HealthTech,64416452,IPO,SoftBank
+23-11-2020,Startup_979,Germany,EdTech,84040919,Series A,Andreessen Horowitz
+03-02-2020,Startup_980,Germany,AI,71152961,Seed,Accel
+27-03-2019,Startup_981,India,FinTech,98844925,Series C,SoftBank
+05-10-2018,Startup_982,India,FinTech,31492304,Private Equity,Kleiner Perkins
+08-09-2018,Startup_983,USA,FinTech,409941,IPO,SoftBank
+13-02-2020,Startup_984,Australia,Logistics,5648788,Private Equity,Sequoia
+01-11-2019,Startup_985,Australia,Cybersecurity,88191469,IPO,Y Combinator
+29-09-2020,Startup_986,UK,Cybersecurity,32850282,Private Equity,Kleiner Perkins
+28-08-2022,Startup_987,Australia,HealthTech,68100556,Seed,Tiger Global
+09-08-2022,Startup_988,India,FinTech,21058526,Series A,SoftBank
+02-07-2019,Startup_989,Canada,Cybersecurity,55335533,Series C,Kleiner Perkins
+07-01-2021,Startup_990,UAE,EdTech,53127291,Series B,Andreessen Horowitz
+01-07-2017,Startup_991,Australia,EdTech,51341083,Series A,Tiger Global
+02-03-2021,Startup_992,UK,FinTech,69294937,Private Equity,Sequoia
+19-08-2017,Startup_993,USA,SaaS,307979,Series B,Lightspeed
+01-10-2022,Startup_994,Germany,E-Commerce,73006270,Series A,Kleiner Perkins
+28-12-2017,Startup_995,Germany,Cybersecurity,82273893,Private Equity,Andreessen Horowitz
+20-12-2017,Startup_996,UAE,SaaS,83525668,Private Equity,Kleiner Perkins
+09-01-2020,Startup_997,Germany,SaaS,28572624,IPO,Tiger Global
+01-12-2022,Startup_998,USA,Cybersecurity,89915178,Series A,SoftBank
+01-04-2018,Startup_999,Singapore,EdTech,3428653,Private Equity,Lightspeed
+29-03-2020,Startup_1000,Singapore,EdTech,17310609,Series A,Tiger Global
